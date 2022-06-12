@@ -13,4 +13,4 @@ import wave
 
 obj = wave.open("patrick.wav", "rb")
 
-print("Number of channels", objge)
+print("Number of channels", obj)
